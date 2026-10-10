@@ -12,8 +12,8 @@
    PHP l'ignore également.
 */
 echo "<p>Bienvenue dans mon TP PHP</p>";
-echo "<p>Nom : Benali</p>";
-echo "<p>Prénom : Salma</p>";
+echo "<p>Nom : FATOIKI</p>";
+echo "<p>Prénom : MOHAMED RIYAD</p>";
 echo "<p>Groupe : G1</p>";
 ?>
 <p><?= "Fin de l'exercice 1 (syntaxe courte)" ?></p>

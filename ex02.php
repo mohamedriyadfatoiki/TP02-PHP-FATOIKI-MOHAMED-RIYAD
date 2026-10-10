@@ -3,9 +3,9 @@
 <head><meta charset="UTF-8"><title>Exercice 2</title></head>
 <body>
 <?php
-$nom = "Benali";
-$prenom = "Salma";
-$age = 20;
+$nom = "FATOIKI";
+$prenom = "MOHAMED RIYAD";
+$age = 19;
 $formation = "Licence Informatique";
 
 // Concaténation avec l'opérateur point
